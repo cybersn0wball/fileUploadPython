@@ -1,5 +1,1 @@
-Upload files to a website using python code.
-
-
-Very buggy it usually doesnt work.
-Might need to debug this.
+Python code used to pentest a website in one of ctf challenges.
